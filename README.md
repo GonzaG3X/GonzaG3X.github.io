@@ -2,5 +2,4 @@
 
 Mi app personal de presentación!
 
-- Contacto:
--- email: rodriguezgonzalo97@gmail.com
+- Contacto: rodriguezgonzalo97@gmail.com
